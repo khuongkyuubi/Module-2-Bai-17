@@ -1,0 +1,31 @@
+.container {
+    margin: auto;
+    width: 70%;
+
+}
+
+.header p {
+    margin: 0;
+}
+
+.body {
+    text-align: justify;
+}
+
+.body .bold {
+    font-weight: bold;
+}
+
+.body p {
+    text-indent: 40px;
+}
+
+.body a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.body a:visited {
+    text-decoration: none;
+    color: #3290d2;
+}
